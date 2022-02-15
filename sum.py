@@ -1,3 +1,3 @@
-a = 10; b = 20
+a = 10; b = 20; c = 20
 
-print("The sum of a & b :", a+b)
+print("The sum of a & b :", a+b+c)
